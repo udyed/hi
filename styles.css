@@ -355,7 +355,7 @@ margin: 30px;
  /* при небольшом разрешении  */
 @media (max-width: 1000px) {
   body {
-    font-size: 2.5vh;
+    font-size: 1vh;
   }
   .hi {
     display: block;
